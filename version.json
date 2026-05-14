@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "buildNumber": 41,
+  "version": "1.8.1",
+  "buildNumber": 42,
   "releaseDate": "2026-05-14",
-  "notes": "Major Update: Rewritten sync error reporting, timeout handling, and improved lunar calendar visuals."
+  "notes": "Ultra Resilience Sync: Individual item processing for maximum stability on slow connections."
 }
