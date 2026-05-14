@@ -1,49 +1,7 @@
-# Flutter/Dart
-.dart_tool/
-.flutter-plugins
-.flutter-plugins-dependencies
-.packages
-.pub-cache/
-.pub/
-/build/
+# Ignore everything
+*
 
-# Android
-.gradle/
-local.properties
-*.iml
-*.ipr
-*.iws
-.idea/
-captures/
-android/app/google-services.json
-
-# iOS
-.generated/
-Flutter/App.framework
-Flutter/Flutter.framework
-Flutter/Generated.xcconfig
-Flutter/flutter_export_environment.sh
-ServiceDefinitions.json
-Runner/GeneratedConfig.xcconfig
-Runner/GeneratedConfig.rb
-Pods/
-!Podfile
-!Podfile.lock
-
-# macOS
-DerivedData/
-.xcworkspace/
-xcuserdata/
-
-# Web
-build/
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Misc
-.DS_Store
-*.log
+# Except these files
+!.gitignore
+!app-release.apk
+!README.md
