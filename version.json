@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "buildNumber": 42,
+  "version": "1.8.2",
+  "buildNumber": 43,
   "releaseDate": "2026-05-14",
-  "notes": "Ultra Resilience Sync: Individual item processing for maximum stability on slow connections."
+  "notes": "Enhanced Diagnostics: Captured detailed error messages during individual sync steps."
 }
