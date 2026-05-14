@@ -1,6 +1,6 @@
 {
-  "version": "1.7.6",
-  "buildNumber": 37,
+  "version": "1.7.7",
+  "buildNumber": 38,
   "releaseDate": "2026-05-14",
-  "notes": "Fix backup timeout by removing manual limits and reducing batch size."
+  "notes": "Add backup progress indicator and percentage reporting."
 }
