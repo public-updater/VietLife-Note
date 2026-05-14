@@ -1,6 +1,6 @@
 {
-  "version": "1.7.9",
-  "buildNumber": 40,
+  "version": "1.8.0",
+  "buildNumber": 41,
   "releaseDate": "2026-05-14",
-  "notes": "Comprehensive fix: Incremental Backup, Polished Lunar Date formatting, and stability improvements."
+  "notes": "Major Update: Rewritten sync error reporting, timeout handling, and improved lunar calendar visuals."
 }
