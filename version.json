@@ -1,6 +1,6 @@
 {
-  "version": "1.7.5",
-  "buildNumber": 36,
+  "version": "1.7.6",
+  "buildNumber": 37,
   "releaseDate": "2026-05-14",
-  "notes": "Fix backup stability and data synchronization issues."
+  "notes": "Fix backup timeout by removing manual limits and reducing batch size."
 }
