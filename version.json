@@ -1,6 +1,6 @@
 {
-  "version": "1.7.4",
-  "buildNumber": 35,
+  "version": "1.7.5",
+  "buildNumber": 36,
   "releaseDate": "2026-05-14",
-  "notes": "Add Lunar Calendar to Home Screen mini-calendar."
+  "notes": "Fix backup stability and data synchronization issues."
 }
