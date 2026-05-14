@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "buildNumber": 33,
+  "version": "1.7.3",
+  "buildNumber": 34,
   "releaseDate": "2026-05-14",
-  "notes": "Force Update Test - Version 1.7.2"
+  "notes": "Add Lunar Calendar (Lịch Âm) for all days."
 }
