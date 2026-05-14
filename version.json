@@ -1,6 +1,6 @@
 {
-  "version": "1.8.3",
-  "buildNumber": 44,
+  "version": "1.8.5",
+  "buildNumber": 46,
   "releaseDate": "2026-05-14",
-  "notes": "Final Stable Release: Optimized Individual Sync, Fixed Variable Scope, and Enhanced Lunar Visuals."
+  "notes": "Final Sync Stability: Instant local-first backup with background cloud synchronization."
 }
