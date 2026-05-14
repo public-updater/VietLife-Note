@@ -1,6 +1,6 @@
 {
-  "version": "1.7.8",
-  "buildNumber": 39,
+  "version": "1.7.9",
+  "buildNumber": 40,
   "releaseDate": "2026-05-14",
-  "notes": "Add detailed backup status messages and reduce batch size for stability."
+  "notes": "Comprehensive fix: Incremental Backup, Polished Lunar Date formatting, and stability improvements."
 }
