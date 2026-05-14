@@ -1,6 +1,6 @@
 {
-  "version": "1.8.2",
-  "buildNumber": 43,
+  "version": "1.8.3",
+  "buildNumber": 44,
   "releaseDate": "2026-05-14",
-  "notes": "Enhanced Diagnostics: Captured detailed error messages during individual sync steps."
+  "notes": "Final Stable Release: Optimized Individual Sync, Fixed Variable Scope, and Enhanced Lunar Visuals."
 }
