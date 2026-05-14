@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "buildNumber": 32,
+  "version": "1.7.2",
+  "buildNumber": 33,
   "releaseDate": "2026-05-14",
-  "notes": "Fix backup/sync system, Moods, Settings and Force Update refactor."
+  "notes": "Force Update Test - Version 1.7.2"
 }
