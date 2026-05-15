@@ -1,6 +1,6 @@
 {
-  "version": "1.8.8",
-  "buildNumber": 49,
+  "version": "1.8.9",
+  "buildNumber": 50,
   "releaseDate": "2026-05-15",
-  "notes": "Final Thorough Fix: Auth token refresh, Auto-retry logic, and Safety clock drift buffer for 100% reliable backup."
+  "notes": "Fix critical backup-to-server failure: enforce server-side write confirmation via waitForPendingWrites, propagate auth-token refresh errors, and refresh auth before single-note auto-backup."
 }
