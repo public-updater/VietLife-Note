@@ -1,6 +1,6 @@
 {
-  "version": "1.8.7",
-  "buildNumber": 48,
+  "version": "1.8.8",
+  "buildNumber": 49,
   "releaseDate": "2026-05-15",
-  "notes": "Zero-Timeout Update: Removed all artificial timeouts to ensure synchronization completes reliably in the background."
+  "notes": "Final Thorough Fix: Auth token refresh, Auto-retry logic, and Safety clock drift buffer for 100% reliable backup."
 }
