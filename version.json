@@ -1,6 +1,6 @@
 {
-  "version": "1.8.9",
-  "buildNumber": 50,
+  "version": "1.8.10",
+  "buildNumber": 51,
   "releaseDate": "2026-05-15",
-  "notes": "Fix critical backup-to-server failure: enforce server-side write confirmation via waitForPendingWrites, propagate auth-token refresh errors, and refresh auth before single-note auto-backup."
+  "notes": "Backup hardening: fast server-reachability probe, 10s auth-refresh timeout, 15s pending-write timeout per stage, and clearer error messages so the backup dialog can no longer hang."
 }
