@@ -1,6 +1,6 @@
 {
-  "version": "1.8.5",
-  "buildNumber": 46,
-  "releaseDate": "2026-05-14",
-  "notes": "Final Sync Stability: Instant local-first backup with background cloud synchronization."
+  "version": "1.8.6",
+  "buildNumber": 47,
+  "releaseDate": "2026-05-15",
+  "notes": "Version 1.8.6: Fresh build with all sync and lunar calendar stability fixes."
 }
